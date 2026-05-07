@@ -1,0 +1,4 @@
+Hello world! Hello computer.
+Computer science is interesting.
+This is a test file. This file is for word counting.
+HELLO again, computer again.
